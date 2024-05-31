@@ -10,6 +10,7 @@ This project uses Puppeteer to automate a search on DuckDuckGo for the term "dev
 ## Installation
 
 Clone the repository or copy the script into a directory.
+
 1. **Clone the repository:**
 
    ```bash
@@ -17,7 +18,6 @@ Clone the repository or copy the script into a directory.
    cd puppeteer-explore
 
 
-Navigate to the directory and install the necessary dependencies:
 2. **Install the dependencies::**
 
    ```bash
