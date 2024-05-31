@@ -16,11 +16,13 @@ Clone the repository or copy the script into a directory.
    git clone https://github.com/kaiyumdev/puppeteer-explore
    cd puppeteer-explore
 
+
 Navigate to the directory and install the necessary dependencies:
 2. **Install the dependencies::**
 
    ```bash
    npm install
+
 
 3. **Start the development server::**
 
