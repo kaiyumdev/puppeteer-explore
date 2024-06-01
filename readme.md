@@ -27,4 +27,4 @@ Clone the repository or copy the script into a directory.
 3. **Start the development server::**
 
    ```bash
-   node fileName.mjs
+   node index.mjs
